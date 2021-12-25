@@ -1,2 +1,2 @@
-# example_repo
-example repo
+# Run locally
+`npm start`
